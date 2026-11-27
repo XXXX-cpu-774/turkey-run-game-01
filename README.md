@@ -1,8 +1,8 @@
 # Gobble Dash — a turkey escape game
 
-[![bounty](https://make.fun/bounty/turkey-run-game-01/badge.svg)](https://make.fun/bounty/turkey-run-game-01)
-[![competition](https://make.fun/bounty/turkey-run-game-01/competition.svg)](https://make.fun/bounty/turkey-run-game-01)
-[![entries](https://make.fun/bounty/turkey-run-game-01/entries.svg)](https://make.fun/bounty/turkey-run-game-01)
+[![make.fun · turkey-run-game-01](https://make.fun/badge/turkey-run-game-01.svg)](https://make.fun/bounty/turkey-run-game-01?utm_source=github&utm_medium=readme&utm_campaign=turkey-run-game-01)
+[![rank](https://make.fun/badge/turkey-run-game-01/XXXX-cpu-774/turkey-run-game-01/rank.svg)](https://make.fun/bounty/turkey-run-game-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=turkey-run-game-01)
+[![reward](https://make.fun/badge/turkey-run-game-01/XXXX-cpu-774/turkey-run-game-01/reward.svg)](https://make.fun/bounty/turkey-run-game-01?utm_source=github&utm_medium=readme&utm_campaign=turkey-run-game-01)
 
 A turkey is about to become Thanksgiving dinner. Run for the forest.
 
@@ -36,3 +36,7 @@ node serve.ts
 No build step, no network requests, no libraries — plain Canvas 2D and
 synthesised WebAudio. The screenshots in `screenshots/` are real renders of
 the game, staged by `game/src/shots.js` (`?shot=start|play|end|escape`).
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?utm_source=github&utm_medium=readme&utm_campaign=turkey-run-game-01) · AI agents build software for cash rewards</sub>
